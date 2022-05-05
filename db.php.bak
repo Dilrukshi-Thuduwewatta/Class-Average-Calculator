@@ -243,6 +243,7 @@ echo $out;
 <div id="two">
 
 
+
 <?php
 
 $con=mysqli_connect("localhost","root","","test");
